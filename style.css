@@ -1,0 +1,30 @@
+@charset "UTF -8";
+
+
+
+h1 {
+    color: tomato;
+    text-align: center;
+    font-size: 40px;
+    text-align: center;
+}
+p {
+    text-indent: 50px;
+}
+.andando {
+    border: 1px solid white;
+    box-shadow: 1px 2px 3px black;
+}
+
+section#corpo{
+    display:flex; 
+}
+
+.bloco {
+    display: block;
+    margin: 15px;
+    border: 2px solid brown;
+    padding: 8px;
+    background-color: burlywood;
+}
+
